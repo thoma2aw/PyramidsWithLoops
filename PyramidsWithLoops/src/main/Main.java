@@ -1,5 +1,6 @@
 /*
  * Bill Nicholson
+ * edited by Andrew Thomas
  * nicholdw@ucmail.uc.edu
  * Printing pyramids using loops. It kind-of works. 
  * What I really want is
